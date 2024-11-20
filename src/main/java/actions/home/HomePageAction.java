@@ -1,4 +1,4 @@
 package actions.home;
 
-public class homePageAction {
+ class homePageAction {
 }

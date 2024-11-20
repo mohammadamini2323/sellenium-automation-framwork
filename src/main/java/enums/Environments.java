@@ -1,6 +1,6 @@
 package enums;
 
-public enum Enviroments {
+public enum Environments {
     DEV,
     TEST,
     STAGE,
